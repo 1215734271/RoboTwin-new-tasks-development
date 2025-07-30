@@ -39,7 +39,7 @@ class grab_milk(Base_Task):
 
         self.move(self.move_by_displacement(arm_tag=arm_tag, z=0.1))   # 抬升高度0.1米
 
-        self.info["info"] = {"{A}": f"102_roller/base{self.model_id}"}
+        self.info["info"] = {"{A}": f"038_milk-box/base{self.model_id}"}
 
         return self.info         # 记录数据
 
