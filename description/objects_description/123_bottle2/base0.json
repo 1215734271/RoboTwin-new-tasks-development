@@ -1,0 +1,22 @@
+{
+    "raw_description": "bottle",
+    "seen": [
+        "plastic bottle",
+        "tall clear bottle",
+        "narrow neck bottle",
+        "bottle with white cap",
+        "smooth plastic bottle",
+        "glossy plastic bottle",
+        "clear bottle white cap",
+        "tall cylindrical bottle",
+        "bottle with screw-top lid",
+        "hand-held beverage bottle",
+        "plastic container with lid",
+        "transparent drinking bottle"
+    ],
+    "unseen": [
+        "clear bottle",
+        "medium sized bottle",
+        "cylindrical clear container"
+    ]
+}
